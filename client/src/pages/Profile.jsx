@@ -15,9 +15,9 @@ console.log(userParam);
 
   const profile = data?.me || data?.user || {};
 
-  if (Authentication.loggedIn() && Authentication.getProfile().data.username === userParam){
-    return <Navigate to="/me" />;
-  }
+  // if (Authentication.loggedIn() && Authentication.getProfile().data.username === userParam){
+  //   return <Navigate to="/me" />;
+  // }
   console.log(profile);
   if (loading) return <p>Loading...</p>;
 

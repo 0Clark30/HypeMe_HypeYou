@@ -17,7 +17,7 @@
 ## Installation
 
 1. Download repo from GitHub repository link:
-https://github.com/ThaDarkLord/hypeMe-hypeYou. 
+   https://github.com/ThaDarkLord/hypeMe-hypeYou.
 
 2. Install repo in terminal
 
@@ -30,30 +30,23 @@ https://github.com/ThaDarkLord/hypeMe-hypeYou.
 ## Usage
 
 Here's the GitHub link where the repo lives:
-[hypeMeHypeYou](https://github.com/ThaDarkLord/hypeMe-hypeYou)
+[hypeMeHypeYou](git@github.com:0Clark30/HypeMe_HypeYou.git)
 
 Here's the Render link where the repo lives:
-[render](https://github.com/ThaDarkLord/hypeMe-hypeYou)
+[render](https://hypeme-hypeyou-9gtj.onrender.com/)
 
 Here are some screenshots of the app below:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+![alt text](./client/src/assets/hmhyss.png)
+    
 
 ## Credits
 
 We want to thank Leif for helping the backend connection with users and their achievements and comments, as well as with the timeline and the typeDefs and resolvers mutations.
 
 All collaborators on the project:
+
 - Daniel Sykes GitHub: https://github.com/ThaDarkLord
 - Austin Clark GitHub: https://github.com/0Clark30
 - Harley Sherman GitHub: https://github.com/harleysherman
@@ -73,16 +66,17 @@ The license used in this project is MIT License.
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh 
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Features
 
 The features of this project are listed below:
+
 - Login/ Sign Up
 - Authentication throughout front end to back end and vice versa
 - Stripe capabilities to allow user to pick a subscription model
 - User has the ability to add an achievement with screenshot and comment on other's achievements
-- Pre-created data from the MongoDB that mimics real users 
+- Pre-created data from the MongoDB that mimics real users
 
 ## How to Contribute
 
